@@ -58,8 +58,6 @@ Your on-premises infrastructure must meet the following requirements before inst
 
   - `nice`
 
-  - `grep`
-
 ## [!DNL Commerce Services Connector]
 
 The agent requires the [[!DNL Commerce Services Connector]](https://experienceleague.adobe.com/docs/commerce-merchant-services/user-guides/saas.html) extension to be installed on your system and [configured](https://experienceleague.adobe.com/docs/commerce-merchant-services/user-guides/saas.html) with API keys. To verify that the extension is installed, run the following command:
